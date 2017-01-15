@@ -10,7 +10,8 @@ The idea remained abandoned for years, and now I'm trying to get back to it
 before we have 2017's Carnaval in Brazil.
 
 Ah, yeah, specific detail: Carnaval should be coded only while drunk or with
-some influence of alcohol.
+some influence of alcohol. Proofs as photos of :beers: should be attached at
+changelog.
 
 # Language Spec
 
