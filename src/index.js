@@ -33,3 +33,18 @@ function onPlayer2Ready(event) {
   iframe = $('#player');
   player2.playVideo();
 }
+
+// The language basically specificies medias (video our audio), where it begins
+// and some parameters:
+
+// V1: dQw4w9WgXcQ
+// inicio: 4.4.3
+// volume: 0
+
+// A1: foo.mp3
+// inicio: 4.4.3
+// volume: 1
+//
+// Idea: creator can map symbols (e.g. emojis) to mnemonics operands
+// :clock1: -> inicio
+// :ear: -> volume
